@@ -10,8 +10,8 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Amo!</Text>
-        {/* <Image source={require('./dist/app_style.svg')} /> */}
+        <Text>!</Text>
+        <Image source={require('./dist/Untitled.png')} />
       </View>
     );
   }
